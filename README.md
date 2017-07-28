@@ -1,4 +1,4 @@
 # MEMOS
-Mutation Enrichment of Motifs
+**M**utation **E**nrichment of **Mo**tif**s**
 
 Developed by Parisa Mazrooei
