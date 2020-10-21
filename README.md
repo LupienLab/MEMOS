@@ -2,7 +2,8 @@
 
 **M**utation **E**nrichment of **Mo**tif**s**
 
-Developed by Parisa Mazrooei and [Tahmid Mehdi](https://github.com/tahmidmehdi)
+Developed by [Parisa Mazrooei](https://github.com/mazrooei) and [Tahmid Mehdi](https://github.com/tahmidmehdi)
+MEMOS has been used for the analysis of [Mazrooei, Parisa, et al. "Cistrome Partitioning Reveals Convergence of Somatic Mutations and Risk Variants on Master Transcription Regulators in Primary Prostate Tumors." Cancer cell 36.6 (2019): 674-689.](https://www.sciencedirect.com/science/article/abs/pii/S1535610819304799)
 
 # Description
 
